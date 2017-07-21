@@ -1,4 +1,6 @@
 # Day of the Week Calculator
+A project from 2013.
+
 ## How to Run It
 Run the "Day Of The Week Calculator" file located in the "Debug" folder. From there, follow the instructions on your screen.
 
